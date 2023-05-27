@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on **projects.**
 
 - 💬 Ask me about **JAVA/SQL/HTML/CSS/JAVASCRIPT/REACT.JS**
-- 
+
 <br>
 
 <h3 align="center">Connect with me:</h3>
