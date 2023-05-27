@@ -17,10 +17,10 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/shahista-shaikh-57276024a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahista" height="40" width="50" /></a>
-<a href="https://www.hackerrank.com/shahistashaikh21?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shahista" height="40" width="50" /></a>
-<a href="https://www.hackerearth.com/@shahista11" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/3033794?s=280&v=4" alt="reshavji" height="40" width="50" /></a>
-<a href="https://leetcode.com/Shahista_Shaikh/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" alt="#" height="40" width="50" /></a>
+<a href="https://linkedin.com/in/shahista-shaikh-57276024a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="50" /></a>
+<a href="https://www.hackerrank.com/shahistashaikh21?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="40" width="50" /></a>
+<a href="https://www.hackerearth.com/@shahista11" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/3033794?s=280&v=4" alt="hackerearth" height="40" width="50" /></a>
+<a href="https://leetcode.com/Shahista_Shaikh/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" alt="leetcode" height="40" width="50" /></a>
 </p>
 
 <br>
