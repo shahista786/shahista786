@@ -1,5 +1,5 @@
 
-<img src="web.gif">
+<img src=".net.png" height="350" width="1000">
 
 <h1 align="center">Hi 👋, I'm Shahista</h1>
 <h3 align="center">A passionate .NET Full Stack Developer from India</h3><br>
