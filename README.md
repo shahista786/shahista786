@@ -54,7 +54,7 @@
   
  <!-- .NET -->
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-  <img src=".netms.png" alt=".NET" width="40" height="40"/>
+  <img src=".netms.jpg" alt=".NET" width="40" height="40"/>
 </a>
 
 <!-- SQL Server -->
