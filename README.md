@@ -54,12 +54,12 @@
   
  <!-- .NET -->
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/.NET_Core_Logo_2019.svg" alt=".NET" width="40" height="40"/>
+  <img src=".netms.png" alt=".NET" width="40" height="40"/>
 </a>
 
 <!-- SQL Server -->
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Microsoft_SQL_Server_Logo_2012.png" alt="SQL Server" width="40" height="40"/>
+  <img src="sql.png" alt="SQL Server" width="40" height="40"/>
 </a>
 
   
