@@ -2,7 +2,7 @@
 <img src="web.gif">
 
 <h1 align="center">Hi 👋, I'm Shahista</h1>
-<h3 align="center">A passionate Full Stack Web Developer from India</h3><br>
+<h3 align="center">A passionate .NET Full Stack Developer from India</h3><br>
 <img align="right" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding">
 
 - 🔭 I’m currently working on **to improve my coding skills.**
@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **projects.**
 
-- 💬 Ask me about **JAVA/SQL/HTML/CSS/JAVASCRIPT/REACT.JS**
+- 💬 Ask me about **HTML/CSS/JAVASCRIPT/REACT.JS/C#/SQL SERVER/MVC/AZURE**
 
 <br>
 
